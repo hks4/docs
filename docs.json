@@ -11,6 +11,26 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "TEWA",
+        "groups": [
+          {
+            "group": "SCADA",
+            "pages": [
+              "TEWA_Doc/SCADA/Connection",
+              "TEWA_Doc/SCADA/Alarms"
+            ]
+          },
+          {
+            "group": "IT",
+            "pages": [
+              "IT/SSH",
+              "IT/NAT"
+            ]
+          }
+        ]
+      },      
+      
+      {
         "tab": "Guides",
         "groups": [
           {
