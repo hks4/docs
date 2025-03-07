@@ -78,18 +78,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Website",
+          "href": "https://tewa.solar/",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Contact",
+          "href": "https://tewa.solar/fr/nous_contacter/",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "News",
+          "href": "https://tewa.solar/fr/actualites/",
           "icon": "newspaper"
         }
       ]
